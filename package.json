@@ -1,0 +1,16 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "npm init > create npm package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niket Kumar Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
